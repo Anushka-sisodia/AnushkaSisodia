@@ -1,5 +1,4 @@
 import SendEmail from "../../components/SendEmail";
-import ContactForm from "./ContactForm";
 import { Footer } from "../../components";
 
 const Contact = () => {
@@ -13,7 +12,6 @@ const Contact = () => {
       I'd love to hear from you and discuss any potential opportunities or projects.
       </p>
       <SendEmail />
-      <ContactForm />
       <Footer />
     </article>
   );
