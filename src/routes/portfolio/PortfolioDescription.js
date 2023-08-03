@@ -8,7 +8,7 @@ const PortfolioDescription = () => {
       projects, and quizzes. Each project is a testament to my passion for creating impactful and innovative solutions.
         <span>
           <a
-            //href="https://github.com/catherineisonline?tab=repositories"
+            href="https://github.com/Anushka-sisodia"
             className="pink-text"
             target="_blank"
             rel="noreferrer"
