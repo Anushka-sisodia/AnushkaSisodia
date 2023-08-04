@@ -61,6 +61,9 @@ const ProjectsData = [
     source: "https://github.com/Anushka-sisodia/World-Happiness-Report",
     description:
       "Our aim is to help countries increase the well-being of their citizens. One way they can do this is by making use of 'The World Happiness Report', a publication of the United Nations Sustainable Development Solutions Network. We have utilized Python Programming to design and develop a software application for predicting the world happiness and several regression models in predicting data. ",
+  },
+  {
+    id: "Moblima",
     img: Moblima,
     name: "Movie Booking and Listing Management System",
     stack: ["< Java />"],
