@@ -17,7 +17,7 @@ const ProjectsPreviewData = [
     //src: "https://pizza-time-with-react.vercel.app/",
     source: "https://github.com/Anushka-sisodia/World-Happiness-Report",
     description:
-      "Our aim is to help countries increase the well-being of their citizens. One way they can do this is by making use of 'The World Happiness Report', a publication of the United Nations Sustainable Development Solutions Network. We have utilized Python Programming to design and develop a software application for predicting the world happiness with the aim to help countries increase the well-being of their citizens. Used several regression models in predicting data like Random Forest Regression, Gradient Boosting Regression, Ridge Regression, Huber Regression and more. ",
+      "Our aim is to help countries increase the well-being of their citizens. One way they can do this is by making use of 'The World Happiness Report', a publication of the United Nations Sustainable Development Solutions Network. We have utilized Python Programming to design and develop a software application for predicting the world happiness and several regression models in predicting data. ",
   },
   {
     id: "Moblima",
@@ -60,10 +60,7 @@ const ProjectsData = [
     //src: "https://pizza-time-with-react.vercel.app/",
     source: "https://github.com/Anushka-sisodia/World-Happiness-Report",
     description:
-      "Our aim is to help countries increase the well-being of their citizens. One way they can do this is by making use of 'The World Happiness Report', a publication of the United Nations Sustainable Development Solutions Network. We have utilized Python Programming to design and develop a software application for predicting the world happiness with the aim to help countries increase the well-being of their citizens. Used several regression models in predicting data like Random Forest Regression, Gradient Boosting Regression, Ridge Regression, Huber Regression and more. ",
-  },
-  {
-    id: "Moblima",
+      "Our aim is to help countries increase the well-being of their citizens. One way they can do this is by making use of 'The World Happiness Report', a publication of the United Nations Sustainable Development Solutions Network. We have utilized Python Programming to design and develop a software application for predicting the world happiness and several regression models in predicting data. ",
     img: Moblima,
     name: "Movie Booking and Listing Management System",
     stack: ["< Java />"],
