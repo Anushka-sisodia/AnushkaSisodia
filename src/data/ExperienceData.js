@@ -7,12 +7,10 @@ const ExperienceData = [
     location: "",
     duration: "June 2023 - July 2023",
     responsibility: [
-      `Conducted advanced data analytics on a substantial financial dataset of large listed companies, leading to
-      actionable financial conclusions.`,
-      `Implemented customer targeting and acquisition strategies that resulted in an impressive 15% increase in new
-      customer acquisition within the targeted segments.`,
-      `Contributed to improved decision-making by providing comprehensive financial analysis using Excel's statistical
-      functions and tools.`,
+      `Conducted advanced data analytics using Excel on a substantial financial dataset of large listed companies,
+      deriving actionable financial conclusions to guide decision-making.`,
+      `Provided a listing of targeted customers and facilitated the bank's efforts to connect with these customers,
+      ultimately enhancing customer engagement and service utilization by 10%.`,
       `Assessed customer profitability, risk profiles, and lifetime value, leading to optimized marketing campaigns and
       personalized offerings.`,
       `Prepared weekly MIS sheets, summarizing and organizing data for management reporting and driving informed
