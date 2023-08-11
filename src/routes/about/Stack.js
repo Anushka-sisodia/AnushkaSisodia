@@ -8,18 +8,15 @@ const Stack = () => {
       </h3>
       <ol className="stack-section ">
         <li>HTML5</li>
-        <li>CSS3</li>
-        <li>C</li>
-        <li>C++</li>
-        <li>JavaScript</li>
         <li>Python</li>
+        <li>CSS3</li>
         <li>SQL</li>
-        <li>React.js</li>
+        <li>JavaScript</li>
+        <li>C</li>
         <li>Node.js</li>
-        <li>Github</li>
-        <li>Git</li>
+        <li>C++</li>
+        <li>React.js</li>
         <li>Figma</li>
-        <li>Visual Studio Code</li>
       </ol>
     </React.Fragment>
   );
