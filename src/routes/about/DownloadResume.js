@@ -1,4 +1,4 @@
-import Resume from "../../assets/documents/Resume - AnushkaSisodia.pdf";
+import Resume from "../../assets/documents/Resume - AnushkaSisodia (pi2).pdf";
 const DownloadResume = () => {
   return (
     <section>
